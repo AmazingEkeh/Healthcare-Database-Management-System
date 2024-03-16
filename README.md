@@ -1,2 +1,2 @@
 # Healthcare-Database-Management-System
-HealthDB excels with optimized stored procedures, meticulous test cases, and a dynamic 'appointment history' table for enhanced functionality. The 'appointment_audit' log captures changes with precision. Explore our ERD and ongoing stakeholder-driven updates for a resilient healthcare system.
+Independently developed a robust healthcare database system with SQL, optimizing initial insertion code and creating essential stored procedures, user-defined functions, appointment history and auditing capabilities. Pioneered versatile trigger functions, showcasing a hands-on approach to optimizing database functionality and ensuring comprehensive stakeholder needs.
